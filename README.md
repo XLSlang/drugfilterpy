@@ -30,7 +30,7 @@ DrugFilter 3D 是一款基于 PyQt5 和 RDKit 的分子筛选与三维可视化�
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/XLS/DrugFilter-3D.git
+git clone https://github.com/XLSlang/DrugFilter-3D.git
 cd DrugFilter-3D
 创建虚拟环境（推荐）
 
